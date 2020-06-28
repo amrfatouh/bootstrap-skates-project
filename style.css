@@ -1,0 +1,13 @@
+.section-light {
+  background-color: lightgrey;
+}
+
+.jumbotron {
+  text-align: center;
+  background: none;
+}
+
+.carousel-img {
+  width: 100%;
+  height: 400px;
+}
