@@ -1,5 +1,6 @@
 .section-light {
   background-color: lightgrey;
+  padding: 15px;
 }
 
 .jumbotron {
@@ -11,3 +12,111 @@
   width: 100%;
   height: 400px;
 }
+
+.section-dark {
+  background-color: grey;
+  padding: 20px;
+}
+
+.vert-board {
+  width: 80px;
+  display: block;
+  margin: auto;
+}
+
+.skate-logo {
+  width: 100%;
+}
+
+.get-cool-stuff-btn {
+  margin: auto;
+  display: block;
+  margin-top: 15px;
+  background: red;
+}
+
+.cool-stuff-modal-header h5 {
+  margin: auto;
+}
+
+.modal-header .close { /*to make header exactly at the center*/
+  margin: 0;
+  padding: 0;
+}
+
+.modal-img {
+  width: 70%;
+  margin: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.third-section {
+  padding: 20px;
+  background-color: lightgrey;
+}
+
+.third-section-img {
+  width: 100%;
+  height: 200px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 3px 0 rgba(0,0,0,0.3),
+    -1px -1px 2px 0 rgba(0,0,0,0.1);
+}
+
+.third-section-btn {
+  margin: auto;
+  display: block;
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+#largeModal p {
+  padding: 20px;
+}
+
+footer {
+  background-color: #222;
+}
+
+.skate-logo-footer {
+  width: 50%;
+  padding: 10px;
+  margin: auto;
+  display: block;
+}
+
+footer .fab {
+  margin: 40px 20px;
+}
+
+.fa-facebook {
+  color: darkblue;
+}
+
+.fa-twitter-square {
+  color: deepskyblue
+}
+
+.fa-instagram-square {
+  color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
